@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${workspaceFolder}/.vscode/browse.vc.db",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/grigoriiott/ROS_Works/UIRS/devel/include/**",
+        "/home/grigoriiott/ROS_Works/workspace_uirs/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/grigoriiott/ROS_Works/UIRS/src/realsense2_camera/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
